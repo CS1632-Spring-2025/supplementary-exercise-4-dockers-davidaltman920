@@ -31,7 +31,6 @@ public class D3Test {
   }
   @After
   public void tearDown() {
-    int i =0;
     driver.quit();
   }
   @Test
